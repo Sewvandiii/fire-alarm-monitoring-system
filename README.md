@@ -6,7 +6,23 @@ This system was developed to help the administration of the fire alarm system to
 
 ## Overview Diagram
 
+![overview](https://user-images.githubusercontent.com/61576355/87778008-2314fd00-c848-11ea-93c3-f8a18edca1ce.jpg)
+
 ## Some interface of the system
+
+![splash](https://user-images.githubusercontent.com/61576355/87778021-27411a80-c848-11ea-873c-5023220dcd08.png)
+
+![UI1](https://user-images.githubusercontent.com/61576355/87778049-31fbaf80-c848-11ea-883c-21795152e289.png)
+
+![UI2](https://user-images.githubusercontent.com/61576355/87778015-25775700-c848-11ea-9145-5e4b27fc4c9f.png)
+
+![UI3](https://user-images.githubusercontent.com/61576355/87777999-1f817600-c848-11ea-8917-3487f360e71a.png)
+
+![UI4](https://user-images.githubusercontent.com/61576355/87778051-345e0980-c848-11ea-87e1-45630139306c.png)
+
+![UI5](https://user-images.githubusercontent.com/61576355/87778038-2c9e6500-c848-11ea-9c69-6a76563ed040.png)
+
+![UI6](https://user-images.githubusercontent.com/61576355/87778029-2ad4a180-c848-11ea-8a54-176faeb4c68b.png)
 
 ## Configurations
 
