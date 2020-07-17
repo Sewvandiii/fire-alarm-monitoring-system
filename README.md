@@ -44,16 +44,3 @@ This system was developed to help the administration of the fire alarm system to
 
 YouTube video : https://youtu.be/UGPxCWuqXt4
 
-### Contributors
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/Sewvandiii"><img
-                    src="https://avatars0.githubusercontent.com/u/61576355?s=460&u=09001c20e83270ee3afd81a692f4b865f61441eb&v=4" width="80px;"
-                    alt="Sewvandi Wickramasinghe" /><br /><sub><b>Sewvandi Wickramasinghe</b></sub></a>
-        </td>
-        <td align="center"><a href="https://github.com/Hasindu1"><img
-                    src="https://avatars2.githubusercontent.com/u/50219109?s=400&v=4" width="80px;"
-                    alt="Hasindu Dahanayake" /><br /><sub><b>Hasindu Dahanayake</b></sub></a><br />
-        </td>
-</table>
