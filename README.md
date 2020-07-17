@@ -40,7 +40,7 @@ This system was developed to help the administration of the fire alarm system to
 
 2. Run the SensorHandling class inside com.programmingfoundation.fire_alarm_sensor.controller package to start the application.
 
-#### For more inforamtion
+### For more inforamtion
 
 YouTube video : https://youtu.be/UGPxCWuqXt4
 
