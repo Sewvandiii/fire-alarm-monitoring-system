@@ -45,6 +45,3 @@ YouTube video : https://youtu.be/UGPxCWuqXt4
                     alt="Hasindu Dahanayake" /><br /><sub><b>Hasindu Dahanayake</b></sub></a><br />
         </td>
 </table>
-
-### Lisence
-[MIT](https://opensource.org/licenses/mit-license.html)
